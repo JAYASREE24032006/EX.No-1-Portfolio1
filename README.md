@@ -399,12 +399,6 @@ footer {
 ![image](https://github.com/user-attachments/assets/dd88bfd4-3cb5-4d0d-9cf6-84c6490ba30a)
 
 
-## RESULT :
-Thus the Portofolio is created successfully using HTML and CSS
-
-
-
-
 
 
 ## RESULT
